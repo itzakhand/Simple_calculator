@@ -1,3 +1,4 @@
 # Simple-calculator
 Created by-Akhand
-visit-https://akhandinfo.netlify.app/
+visit-
+https://simplecalculatorakhand.netlify.app/
